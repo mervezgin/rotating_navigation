@@ -52,6 +52,10 @@ body {
     color: #fff;
 }
 
+.container.show-nav .circle {
+    transform: rotate(-70deg);
+} 
+
 .circle button:focus {
     outline: none;
 }
